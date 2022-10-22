@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Portfolio : realgreat.netlify.app
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Realgreat01)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Realgreat01)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realgreat01)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realgreat01&count_private=true)
@@ -17,7 +18,7 @@ Portfolio : realgreat.netlify.app
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Realgreat01&repo=convoychat" />
 </a>
-<!--
+
 **Realgreat01/Realgreat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
