@@ -1,7 +1,7 @@
 
- 💬 Ask me about vue js
- 🤔 I’m love node js
-📫 How to reach me: samsonrealgreat@gmail.com
+- 💬 Ask me about vue js
+- 🤔 I’m love node js
+- 📫 How to reach me: samsonrealgreat@gmail.com
 - 
 <!-- ### Hi there  👋
 #I am Samson Ikuomenisan
