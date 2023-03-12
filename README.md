@@ -1,4 +1,9 @@
-### Hi there  👋
+
+ 💬 Ask me about vue js
+ 🤔 I’m love node js
+📫 How to reach me: samsonrealgreat@gmail.com
+- 
+<!-- ### Hi there  👋
 #I am Samson Ikuomenisan
 
 Portfolio : realgreat.netlify.app
@@ -22,3 +27,4 @@ Portfolio : realgreat.netlify.app
 
 
 
+ -->
