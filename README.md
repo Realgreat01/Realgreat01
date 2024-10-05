@@ -1,5 +1,3 @@
-
-- 💬 Ask me about vue js and node js
 - 📫 How to reach me: samsonrealgreat@gmail.com
 <!-- ### Hi there  👋
 #I am Samson Ikuomenisan
